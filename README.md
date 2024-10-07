@@ -64,16 +64,48 @@ The repository is organized as follows:
 
 ## Installation
 
-To access the materials, clone this repository to your local machine using the following command:
 
-```bash
-git clone https://github.com/AdamCegGrid/javascript-learning-project.git
+
+- Instal [Node.js](https://nodejs.org/en)
+
+- ESLint Installation 
+```js
+npm install eslint --save-dev
+```
+- Configuration 
+```js
+npm init @eslint/config
+```
+- Add Prettier in `.eslintrc.json` file:
+```json
+"extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier"
+],
 ```
 
-Navigate to the repository folder:
+- Prettier Installation 
+```js
+npm install --save-dev --save-exact prettier
+```
+- Add file `.prettierignore` :
+```
+package-lock.json
+README.md
+```
+- Add Prettier rule `.prettierrc.json` :
+```json
+{
+    "singleQuote": true
+}
+```
+- Run formatting with Prettier `npx prettier --write .`
+- Linking Prettier with ESLint `npm install --save-dev eslint-config-prettier`
 
-```bash
-cd javascript-learning-project
+## Running tests:
+
+- Command line: `...`
 ```
 
 ## Tutorials
