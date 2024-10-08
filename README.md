@@ -59,10 +59,11 @@ The repository is organized as follows:
 ├── Course_6/
 │   ├── Examples/
 │   └── Exercises/
-├── .eslintrc.json
+├── tips
+├── .prettierrc.json
 ├── .gitignore
 ├── .prettierignore
-├── .prettierrc.json
+├── .eslint.config.mjs
 ├── package-lock.json
 ├── package.json
 └── README.md
