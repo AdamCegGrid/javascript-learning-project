@@ -86,14 +86,6 @@ npm install eslint --save-dev
 ```js
 npm init @eslint/config
 ```
-- Add Prettier in `.eslintrc.json` file:
-```json
-"extends": [
-    "eslint:recommended",
-    "plugin:@typescript-eslint/recommended",
-    "prettier"
-],
-```
 
 - Prettier Installation 
 ```js
