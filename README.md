@@ -41,18 +41,24 @@ The repository is organized as follows:
 
 ```
 /JavaScript-learning-project
-├── Course1/
+├── Course_1/
 │   ├── Examples/
-│   ├── Exercises/
-│   └── Projects/
-├── Course2/
+│   └── Exercises/
+├── Course_2/
 │   ├── Examples/
-│   ├── Exercises/
-│   └── Projects/
-├── Course3/
+│   └── Exercises/
+├── Course_3/
 │   ├── Examples/
-│   ├── Exercises/
-│   └── Projects/
+│   └── Exercises/
+├── Course_4/
+│   ├── Examples/
+│   └── Exercises/
+├── Course_5/
+│   ├── Examples/
+│   └── Exercises/
+├── Course_6/
+│   ├── Examples/
+│   └── Exercises/
 ├── .eslintrc.json
 ├── .gitignore
 ├── .prettierignore
