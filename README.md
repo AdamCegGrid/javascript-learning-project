@@ -64,8 +64,6 @@ The repository is organized as follows:
 
 ## Installation
 
-
-
 - Instal [Node.js](https://nodejs.org/en)
 
 - ESLint Installation 
@@ -119,7 +117,6 @@ README.md
 - [JavaScript Unit Testing, The Practical Guide - Udemy](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
 - [Repository for the Linkedin Learning course: JavaScript Essential Training - GitHub](https://github.com/LinkedInLearning/javascript-essential-training-2832077)
 - [Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
   
 <br>
 
@@ -152,4 +149,3 @@ Happy JavaScript Learning!
 ---
 
 Feel free to explore the materials and track my journey in learning JavaScript. If you have any suggestions or tips, feel free to reach out!
-
