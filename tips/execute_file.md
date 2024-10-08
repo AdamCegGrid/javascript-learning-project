@@ -1,16 +1,22 @@
 ## Execute file:
+
 - macOS
+
 ```javascript
 node ./Course_4/Examples/firstFile.js
 ```
+
 - windows
+
 ```javascript
 node .\Course_4\Examples\firstFile.js
 ```
 
 ## Execute by F5
+
 - `Run -> Start Debugging` <kbd>F5</kbd> or `Run Without Debugging` <kbd>CTRL</kbd> + <kbd>F5</kbd>
 - `.vscode -> launch.json`:
+
 ```javascript
 {
     // Use IntelliSense to learn about possible attributes.
