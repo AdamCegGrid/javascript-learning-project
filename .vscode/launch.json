@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Basics",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/Course_4/Examples/firstFile.js"
+      "program": "${workspaceFolder}/Course_4/Examples/00-debug_file.js"
     }
   ]
 }
