@@ -41,6 +41,8 @@ The repository is organized as follows:
 
 ```
 /JavaScript-learning-project
+├── .vscode/
+│   └── launch.json
 ├── Course_1/
 │   ├── Examples/
 │   └── Exercises/
@@ -59,7 +61,7 @@ The repository is organized as follows:
 ├── Course_6/
 │   ├── Examples/
 │   └── Exercises/
-├── tips
+├── tips/
 ├── .prettierrc.json
 ├── .gitignore
 ├── .prettierignore
