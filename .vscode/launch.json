@@ -11,16 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\01_basics\\10-objects.js"
-        },
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "Launch Exercises",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "program": "${workspaceFolder}\\exercises\\001_exercise.js"
+            "program": "${workspaceFolder}/Course_4/Examples/firstFile.js"
         }
     ]
 }

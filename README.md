@@ -72,6 +72,11 @@ The repository is organized as follows:
 
 - Instal [Node.js](https://nodejs.org/en)
 
+- Project Initialization 
+```js
+npm install
+```
+
 - ESLint Installation 
 ```js
 npm install eslint --save-dev
