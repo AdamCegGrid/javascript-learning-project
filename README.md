@@ -18,7 +18,7 @@ Here are some of the courses and resources I am using:
    - Instructor: Viktor Pyskunov
    - Platform: [Udemy.com](https://www.udemy.com/course/asynchronous-javascript-promises-callbacks-async-await)
 
-3. **Course-3**: The Complete JavaScript Course 2024: From Zero to Expert! - English
+3. **Course_3**: The Complete JavaScript Course 2024: From Zero to Expert! - English
    - Instructor: Jonas Schmedtmann
    - Platform: [Udemy.com](https://www.udemy.com/course/the-complete-javascript-course/)
 
@@ -26,11 +26,11 @@ Here are some of the courses and resources I am using:
    - Instructor: Jakub Kozera
    - Platform: [Udemy.com](https://www.udemy.com/course/praktyczny-kurs-javascript/)
 
-5. **Course-5**: 10 projects in pure JavaScript - Polish
+5. **Course_5**: 10 projects in pure JavaScript - Polish
    - Instructor: Mateusz Maj
    - Platform: [Udemy.com](https://www.udemy.com/course/10-projektow-w-czystym-javascript-cz-1/)
 
-6. **Course-6**: Programming in JavaScript from Zero to Master - Polish
+6. **Course_6**: Programming in JavaScript from Zero to Master - Polish
    - Instructor: Kuba Wąsikowski
    - Platform: [Udemy.com](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/)
 
