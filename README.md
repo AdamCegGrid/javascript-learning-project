@@ -112,11 +112,6 @@ README.md
 - Run formatting with Prettier `npx prettier --write .`
 - Linking Prettier with ESLint `npm install --save-dev eslint-config-prettier`
 
-## Running tests:
-
-- Command line: `...`
-```
-
 ## Tutorials
 
 - [JavaScript Unit Testing, The Practical Guide - Udemy](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
