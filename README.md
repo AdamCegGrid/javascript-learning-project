@@ -34,6 +34,10 @@ Here are some of the courses and resources I am using:
    - Instructor: Kuba Wąsikowski
    - Platform: [Udemy.com](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/)
 
+7. **Course_7**: Course JavaScript - Polish
+   - Instructor: Kanał o Wszystkim
+   - Platform: [Youtube](https://www.youtube.com/watch?v=Y5NpcJOM99A&list=PL6aekdNhY7DAnIsg_OoPaxB5kJV0pUJ99)
+
 
 ## Folder Structure
 
@@ -44,23 +48,26 @@ The repository is organized as follows:
 ├── .vscode/
 │   └── launch.json
 ├── Course_1/
-│   ├── Examples/
-│   └── Exercises/
+│   ├── Course-Lessons/
+│   └── Practice-Exercises/
 ├── Course_2/
-│   ├── Examples/
-│   └── Exercises/
+│   ├── Course-Lessons/
+│   └── Practice-Exercises/
 ├── Course_3/
-│   ├── Examples/
-│   └── Exercises/
+│   ├── Course-Lessons/
+│   └── Practice-Exercises/
 ├── Course_4/
-│   ├── Examples/
-│   └── Exercises/
+│   ├── Course-Lessons/
+│   └── Practice-Exercises/
 ├── Course_5/
-│   ├── Examples/
-│   └── Exercises/
+│   ├── Course-Lessons/
+│   └── Practice-Exercises/
 ├── Course_6/
-│   ├── Examples/
-│   └── Exercises/
+│   ├── Course-Lessons/
+│   └── Practice-Exercises/
+├── Course_7/
+│   ├── Course-Lessons/
+│   └── Practice-Exercises/
 ├── tips/
 ├── .prettierrc.json
 ├── .gitignore
@@ -122,15 +129,9 @@ README.md
 <br>
 
 - :poland: [Kurs JavaScript dla superbohaterów](https://kursjs.pl/)
-- :poland: [Kurs JavaScript - YouTube](https://www.youtube.com/watch?v=Y5NpcJOM99A&list=PL6aekdNhY7DAnIsg_OoPaxB5kJV0pUJ99)
 - :poland: [Kurs JavaScript Pasja informatyki - YouTube]()
 - :poland: [Kurs JavaScript od podstaw krok po kroku 7h - YouTube](https://www.youtube.com/watch?v=Jq87JwsbG_E&t=13635s)
-- :poland: [Programowanie w JavaScript od Zera do Mastera - Udemy](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/)
-- :poland: [Praktyczny kurs JavaScript od podstaw - Udemy](https://www.udemy.com/course/praktyczny-kurs-javascript/)
-- :poland: [10 projektów w czystym JavaScript - Udemy](https://www.udemy.com/course/10-projektow-w-czystym-javascript-cz-1/learn/lecture/18119975?start=0#overview)
-
-- :poland: [JavaScript, przykładowe zadania na rozmowie technicznej - YouTube](https://www.youtube.com/watch?v=66Bv86S0G4A);
-
+- :poland: [JavaScript, przykładowe zadania na rozmowie technicznej - YouTube](https://www.youtube.com/watch?v=66Bv86S0G4A)
 - :poland: [ESLint, Prettier i VS Code - YouTube](https://www.youtube.com/watch?v=u2yUxhzpht4)
 - :poland: [ESlint, Prettier, Husky - YouTube](https://www.youtube.com/watch?v=aXCkPGueaGY&list=PLvFBbkSgL1u7Bco8ewGnWeZpjRH-bHC_7&index=3&t=302s)
 
