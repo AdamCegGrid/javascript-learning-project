@@ -6,6 +6,8 @@
 - `fix(scope): bug in scope`
 - `feat!: breaking change` / `feat(scope)!: rework API`
 - `chore(deps): update dependencies`
+- `refactor: format code with Prettier`
+- `style: format code using Prettier`
 
 ## Commit types
 
