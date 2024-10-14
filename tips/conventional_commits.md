@@ -1,12 +1,14 @@
 # My Conventional Commits:
 
 ## Quick examples
+
 - `feat: new feature`
 - `fix(scope): bug in scope`
 - `feat!: breaking change` / `feat(scope)!: rework API`
 - `chore(deps): update dependencies`
 
 ## Commit types
+
 - `docs: correct contents inside playwright.md`
 - `docs: fix typo in code inside README.md`
 - `docs: updated documentation for new feature implementation`

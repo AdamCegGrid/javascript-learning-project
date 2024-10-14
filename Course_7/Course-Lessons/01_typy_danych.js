@@ -36,7 +36,7 @@ console.log("OK \nGood luck!");
 let longText = `Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Nunc nec malesuada libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
                 Ut sed risus sed lectus efficitur sollicitudin eget ac eros.`;
-console.log(longText); 
+console.log(longText);
 
 // tworzenie tablic z wieloma elementami
 let tab = [5, "Jonh Smith", 42, 68];
