@@ -138,6 +138,7 @@ README.md
 
 - [codewars](https://www.codewars.com/users/AdamCegielka)
 - [HackerRank](https://www.hackerrank.com/dashboard)
+- [LeetCode](https://leetcode.com/)
 - [Codepen.io](https://codepen.io/pen/?editors=0012)
 - [Scrimba.com](https://scrimba.com/)
 - [w3schools](https://my-learning.w3schools.com/tutorial/js)
