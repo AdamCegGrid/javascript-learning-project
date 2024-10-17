@@ -1,6 +1,7 @@
 # Tips for VSCode:
 
 ## Windows
+
 - <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>↓/↑</kbd> -> copy line up/down
 - <kbd>ALT</kbd> + <kbd>↓/↑</kbd> -> moving the whole line
 - <kbd>SHIFT</kbd> + <kbd>CTRL</kbd> + <kbd>K</kbd> -> delete line
@@ -17,6 +18,7 @@
 - <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>P</kbd> -> reloading the VSC window `Developer: Reload Window`
 
 ## macOS
+
 - <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>↓/↑</kbd> -> copy line up/down
 - <kbd>Option</kbd> + <kbd>↓/↑</kbd> -> moving the whole line
 - <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd> -> delete line
