@@ -2,6 +2,7 @@
   // Use IntelliSense to learn about possible attributes.
   // Hover to view descriptions of existing attributes.
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+
   "version": "0.2.0",
   "configurations": [
     {
@@ -9,7 +10,8 @@
       "request": "launch",
       "name": "Launch Basics",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/Course_4/Course-Lessons/02-funkcje.js"
+      // "program": "${workspaceFolder}/Course_4/Course-Lessons/02-funkcje.js"
+      "program": "${workspaceFolder}/Course_4/Practice-Exercises/02-funkcje-zadanie.js"
     }
   ]
 }
