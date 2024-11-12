@@ -10,8 +10,8 @@
       "request": "launch",
       "name": "Launch Basics",
       "skipFiles": ["<node_internals>/**"],
-      // "program": "${workspaceFolder}/Course_4/Course-Lessons/02-funkcje.js"
-      "program": "${workspaceFolder}/Course_4/Practice-Exercises/02-funkcje-zadanie.js"
+      "program": "${workspaceFolder}/Course_4/Course-Lessons/03-typ_number.js"
+      // "program": "${workspaceFolder}/Course_4/Practice-Exercises/02-funkcje-zadanie.js"
     }
   ]
 }
