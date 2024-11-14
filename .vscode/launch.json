@@ -10,9 +10,12 @@
       "request": "launch",
       "name": "Launch Basics",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/Course_7/Course-Lessons/02_operatory_arytmetyczne.js"
+      // Course_4
       // "program": "${workspaceFolder}/Course_4/Course-Lessons/03-typ_number.js"
       // "program": "${workspaceFolder}/Course_4/Practice-Exercises/02-funkcje-zadanie.js"
+      // Course_7
+      // "program": "${workspaceFolder}/Course_7/Course-Lessons/02_operatory_arytmetyczne.js"
+      "program": "${workspaceFolder}/Course_7/Course-Lessons/03_operatory_porownania_logiczne.js"
     }
   ]
 }
