@@ -8,7 +8,7 @@ var comparison = document.getElementById("comparison");
 var x = 4, y = 11;
 
 if (x < y) {
-    comparison.innerHTML = "True";
+  comparison.innerHTML = "True";
 }
 
 // Drugi przykład:
@@ -19,11 +19,11 @@ var valueAge = 18;
 // można go uprościć:
 
 if (valueAge > 17) {
-    age.innerHTML = "Możesz prowadzić auto";
+  age.innerHTML = "Możesz prowadzić auto";
 } else if (valueAge == 17) {
-    age.innerHTML = "Możesz prowadzić pod opieką dorosłego!";
+  age.innerHTML = "Możesz prowadzić pod opieką dorosłego!";
 } else {
-    age.innerHTML = "Jesteś niepełnoletni!";
+  age.innerHTML = "Jesteś niepełnoletni!";
 }
 
 // Alert:
