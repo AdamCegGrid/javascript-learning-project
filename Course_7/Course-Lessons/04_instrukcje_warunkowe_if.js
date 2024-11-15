@@ -16,8 +16,6 @@ if (x < y) {
 var age = document.getElementById("age");
 var valueAge = 18;
 
-// można go uprościć:
-
 if (valueAge > 17) {
   age.innerHTML = "Możesz prowadzić auto";
 } else if (valueAge == 17) {
